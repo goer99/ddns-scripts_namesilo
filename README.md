@@ -8,4 +8,8 @@
 
 安装后在DDNS服务提供商一栏多出一个 namesilo.com。
 
-详情见恩山论坛介绍帖 [适用于OpenWRT/LEDE自带DDNS功能的阿里云脚本，完美嵌入](http://www.right.com.cn/forum/thread-267501-1-1.html)
+## 脚本说明
+
+`makefile` 来自[sense](https://github.com/sensec/ddns-scripts_aliyun)
+
+`update_namesilo.sh` 来自 [lin010151](https://github.com/lin010151/ddns-scripts_namesilo)
