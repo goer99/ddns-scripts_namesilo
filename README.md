@@ -13,3 +13,7 @@
 `makefile` 来自[sense](https://github.com/sensec/ddns-scripts_aliyun)
 
 `update_namesilo.sh` 来自 [lin010151](https://github.com/lin010151/ddns-scripts_namesilo)
+
+## 使用范例
+
+![demo](/demo.jpg?raw=true)
